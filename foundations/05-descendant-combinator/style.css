@@ -1,0 +1,10 @@
+* {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.container .text {
+  color:red;
+  background-color:yellow;
+  font-size:1.75em;
+  text-align:center;
+}
