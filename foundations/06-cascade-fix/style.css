@@ -1,34 +1,41 @@
+* {
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
 .para,
 .small-para {
   color: hsl(0, 100%, 50%);
 }
 
-.small-para {
-  font-size: 14px;
-}
-
-.para {
+.para.small-para {
   font-size: 22px;
 }
 
-.confirm {
-  background: green;
+.para {
+  font-size: 36px;
+}
+
+#confirm-button {
   color: white;
   font-weight: bold;
+  background: green;
 } 
 
 .button {
-  background-color: rgb(255, 255, 255);
   color: rgb(0, 0, 0);
-  font-size: 20px;
+  font-size: 36px;
 }
 
-.child {
+#cancel-button {
+  background-color: rgb(255, 255, 255);
+}
+
+.text.child {
   color: red;
-  font-size: 14px;
+  font-size: 22px;
 }
 
 div.text {
   color: green;
-  font-size: 22px;
+  font-size: 36px;
 }
