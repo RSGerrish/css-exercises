@@ -1,0 +1,23 @@
+*{
+  font-family:Verdana, "DejaVu Sans", sans-serif;
+}
+
+.number-class {
+  background-color:lightcoral;
+  font-size:24px;
+}
+
+.cool-class {
+  font-size:36px;
+}
+
+#number2-id {
+  font-size: 48px;
+  color:blue;
+}
+
+#number4-id {
+  font-size:36px;
+  font-weight:700;
+  background-color:greenyellow;
+}
